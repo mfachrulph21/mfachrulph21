@@ -8,11 +8,11 @@ Hi, Muhammad Fachrul Putra Henri!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hacktiv8+Boothcamp+Graduates;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://pbs.twimg.com/profile_images/1595645634345783297/7B-5mwdu_400x400.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://pbs.twimg.com/profile_images/1595645634345783297/7B-5mwdu_400x400.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="290" height="290" />
 <hr>
 
 ```
-I-am-mfachrulph21@github
+mfachrulph21@github
 -------------------------
 💻 I am a self taught Full Stack Developer
 📚 Hacktiv8 Fullstack Javascript Immersive Boothcamp graduates
@@ -63,3 +63,33 @@ I-am-mfachrulph21@github
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+<!-- ## GitHub Stats
+
+
+|                                                                     Muhammad Fachrul's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Fachrul's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mfachrulph21&theme=react-dark&hide_border=true&area=true) |
+| ![Fachrul's github stats](https://github-readme-stats.vercel.app/api?username=mfachrulph21&show_icons=true&theme=algolia)              | 
+| ![Fachrul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfachrulph21&theme=algolia)                    | 
+
+## Top Languages
+
+|                                                           Top Languages                                                           |      
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfachrulph21&langs_count=8&theme=algolia&layout=compact) | -->
+
+## GitHub Stats
+
+
+|                                                                     Muhammad Fachrul's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Fachrul's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mfachrulph21&theme=react-dark&hide_border=true&area=true) |
+| ![Fachrul's github stats](https://github-readme-stats.vercel.app/api?username=mfachrulph21&show_icons=true&theme=algolia)              | 
+| ![Fachrul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfachrulph21&theme=algolia)                    | 
+    
+
+|                                                                                                      Muhammad Fachrul's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=mfachrulph21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfachrulph21&langs_count=8&theme=algolia&layout=compact) |
+
+
